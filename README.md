@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Jangir</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nitinajay9298/Portfolio](https://github.com/nitinajay9298/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/nitinajay9298/Portfolio/](https://github.com/nitinajay9298/Portfolio)
 
 - 📫 How to reach me **nitinajay9298@gmail.com**
 
